@@ -12,7 +12,7 @@ namespace Palindrome
       //Arrange
       PalindromeCheck testPalindromeCheck = new PalindromeCheck();
       //Act
-      Assert.Equal(true, testPalindromeCheck.Check("Bob"));
+      Assert.Equal(true, testPalindromeCheck.Check("a"));
       //Assert
 
     }
